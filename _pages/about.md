@@ -13,7 +13,7 @@ particularly through open-source demonstration. As of the 19th March, 2020, the 
 I am hardly the first to create a chemistry blog. Here is a collection
 of active(-ish) blogs I've found. Feel free to let me know if I'm missing any!
 
-### Computational Chemistry
+<b>Computational Chemistry</b>
 
 * [Chemistry with a twist](https://www.ch.imperial.ac.uk/rzepa/blog/) (highly recommended)
 * [Thinker's Community (Sobereva)](http://sobereva.com/)

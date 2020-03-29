@@ -10,7 +10,6 @@ description: A Computational Chemistry Blog
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/ChemykaLogo.png
 
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -36,7 +35,6 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-153564964-1
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://chemyka.github.io
 enforce_ssl: http://chemyka.github.io
