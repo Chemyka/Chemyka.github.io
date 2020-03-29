@@ -6,12 +6,14 @@ permalink: /about/
 
 This blog is designed to inspire an appreciation for the
 techniques, applications, and peculiarities of quantum computational chemistry,
-particularly through open-source demonstration. As of the 19th March, 2020, the project is still under active development. It is run anonymously as a labor of love, in my spare time.
+particularly through open-source demonstration. As of the 29th March, 2020, the
+project is still under active development. It is run anonymously as a labor of love,
+in my spare time.
 
 ## Blogroll
 
 I am hardly the first to create a chemistry blog. Here is a collection
-of active(-ish) blogs I've found. Feel free to let me know if I'm missing any!
+of active (or active-ish) blogs I've found. Let me know if I'm missing any!
 
 <b>Computational Chemistry</b>
 
@@ -24,7 +26,7 @@ of active(-ish) blogs I've found. Feel free to let me know if I'm missing any!
 * [Chemical Quantum Images](http://chemical-quantum-images.blogspot.com/)
 * [Joshua Going's Blog](https://joshuagoings.com/)
 
-### Organic Chemistry / General Chemistry
+<b>Organic Chemistry / General Chemistry</b>
 * [In the Pipeline](https://blogs.sciencemag.org/pipeline/)
 * [Synthetic Remarks](https://syntheticremarks.com/about/)
 * [Chemistry-Blog](http://www.chemistry-blog.com/)
@@ -39,13 +41,13 @@ of active(-ish) blogs I've found. Feel free to let me know if I'm missing any!
 * [The Chronicle Flask](https://chronicleflask.com/about/)
 * [Chemical Connections](https://stuartcantrill.com/)
 
-### Cheminformatics
+<b>Cheminformatics</b>
 
 * [Depth-first](https://depth-first.com/about/)
 * [Cheminformatics 2.0](https://cheminf20.org/)
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/)
 
-### Other Cool Blogs
+<b>Other Cool Blogs</b>
 
 * [petermr's blog](https://blogs.ch.cam.ac.uk/pmr/) (data science)
 * [Mathemathinking](http://corysimon.github.io/) (mathematics)
@@ -53,10 +55,14 @@ of active(-ish) blogs I've found. Feel free to let me know if I'm missing any!
 ## Credit
 
 This website is a fork of the [Reverie](https://github.com/amitmerchant1990/reverie)
-Jekyll theme, which is itself a fork of the [jekyll-now](https://github.com/barryclark/jekyll-now) theme. The source code for this website is hosted on Github and can be found [here](https://github.com/Chemyka/chemyka.github.io).
+Jekyll theme, used with permission under the MIT license, which is itself a fork
+of the [jekyll-now](https://github.com/barryclark/jekyll-now) theme. The source
+code for this website is hosted on Github Pages and can be found
+[here](https://github.com/Chemyka/chemyka.github.io).
 
 The interactive molecular visualizations are hosted by [3Dmol.js](https://3dmol.csb.pitt.edu/index.html).
 The full source code is on [Github](https://github.com/3dmol/3Dmol.js), and the
 publication can be found [here](https://doi.org/10.1093/bioinformatics/btu829).
-
 The interactive plots are hosted by [plotly](https://plot.ly/).
+
+All content on this blog can be freely distributed with attribution.
